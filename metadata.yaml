@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8665
     wikipedia: http://it.wikipedia.org/wiki/Giulio_Piccini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19430#La-Principessa
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
